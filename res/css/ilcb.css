@@ -1,3 +1,11 @@
+/*
+
+    colors:
+        chocolate : #754c24;
+        orange: #f7931e;
+
+*/
+
 body {
     font-family: 'Crimson Pro', serif;
 
@@ -6,7 +14,7 @@ body {
 
 /* menu style */
 .top-nav-logo{
-    
+
     height : 70px;
     width: auto;
 }
