@@ -3,3 +3,10 @@ body {
 
     font-family: 'Montserrat', sans-serif;
 }
+
+/* menu style */
+.top-nav-logo{
+    
+    height : 70px;
+    width: auto;
+}
