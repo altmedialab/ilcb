@@ -9,7 +9,7 @@
 body {
     font-family: 'Crimson Pro', serif;
 
-    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
 }
 
 /* menu style */
@@ -17,4 +17,70 @@ body {
 
     height : 50px;
     width: auto;
+}
+
+.top-link {
+    color : #754c24;
+}
+
+/* header styles */
+.top-name {
+
+    font-family: 'Crimson Pro', serif;
+    font-weight: 600;
+    color : #754c24;
+}
+
+/* footer styles */
+.ft {
+    background-color: #f7931e;
+    color : #754c24;
+}
+
+.ft-top {
+    background-color: #754c24;
+}
+
+.ft-logo {
+    height :50px;
+}
+
+.ft-title {
+    color: white;
+}
+
+.ft-link {
+    color : #754c24;
+    text-decoration: none;
+}
+
+.ft-link:hover {
+    color : #ffffff;
+    text-decoration: underline;
+}
+
+.ft-social {
+    color : white;
+}
+
+.ft-social:hover {
+    opacity: 50%;
+}
+
+.ft-icon {
+    color : #ffffff;
+}
+
+.ft-copy {
+    color : white;
+}
+
+.dev-link {
+    color : #ffffff;
+}
+
+.dev-link:hover {
+    opacity : 50%;
+    color : #754c24;
+    font-weight: 900;
 }
