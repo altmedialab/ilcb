@@ -24,6 +24,10 @@ body {
     color : #754c24;
 }
 
+#topnav > li > .active {
+    color: #f7931e;
+}
+
 .top-link {
     color : #754c24;
 }
@@ -31,7 +35,7 @@ body {
 /* header styles */
 .top-name {
 
-    font-family: 'Crimson Pro', serif;
+    font-family: 'Playfair Display', serif;
     font-size: 1.5rem;
     font-weight: 600;
     color : #754c24;
@@ -48,12 +52,12 @@ body {
 /*  services styles  */
 .serv {
 	color : #754c24;
-	font-family: 'Crimson Pro', serif !important;
+	font-family: 'Playfair Display', serif !important;
 	font-weight: 600;
     font-size: 2rem;
 }
 .serv-title {
-	font-family: 'Crimson Pro', serif !important;
+	font-family: 'Playfair Display', serif !important;
 	font-weight: 600;
     font-size: 1.5rem;
 	color : #754c24;
