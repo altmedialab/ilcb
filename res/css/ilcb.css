@@ -23,8 +23,7 @@ body {
 .topnav {
     color : #754c24;
 }
-
-#topnav > li > .active {
+.active {
     color: #f7931e;
 }
 
