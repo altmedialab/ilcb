@@ -57,13 +57,13 @@ body {
 }
 
 .section-title-serv{
-    background-color: #f7931e;
+    /* background-color: #f7931e; */
     opacity : 100%;
     border-bottom : 3px solid #754c24;
 }
 
 .section-title-obj{
-    background-color: #754c24;
+    /* background-color: #754c24; */
     opacity : 100%;
     border-bottom : 3px solid #ffffff;
 }
