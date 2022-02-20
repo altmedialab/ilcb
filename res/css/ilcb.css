@@ -55,6 +55,7 @@ body {
 	font-family: 'Playfair Display', serif !important;
 	font-weight: 600;
     font-size: 2rem;
+    border-bottom: #f7931e 2px solid;
 }
 .serv-title {
 	font-family: 'Playfair Display', serif !important;
@@ -66,6 +67,12 @@ body {
 	font-size: 2rem;
 	color :  #f7931e;
 }
+
+.gagas {
+    font-weight: 500;
+    color: #754c24;
+}
+
 
 
 
