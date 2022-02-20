@@ -23,9 +23,9 @@ body {
 .topnav {
     color : #754c24;
 }
-.active {
-    /* color: #f7931e; */
-    text-decoration: underline;
+#topnav .active {
+    color: #f7931e;
+    text-decoration: none;
     text-decoration-style: solid;
 }
 
@@ -46,6 +46,7 @@ body {
 /* ilcb objectives */
 .ilcb-objectives {
     background-color: #f7931e;
+    color : #ffffff;
 }
 
 
