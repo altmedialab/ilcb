@@ -58,9 +58,12 @@ body {
     
 }
 
-.service-main-title > h3 {
-    border-bottom: #f7931e 2px solid;
-}
+/* .service-main-title-btm {
+    background-color: #f7931e;
+    height : 2px;
+    width: 15%;
+    justify-content: center;
+} */
 .serv-title {
 	font-family: 'Playfair Display', serif !important;
 	font-weight: 600;
@@ -84,6 +87,7 @@ body {
 .ft {
     background-color: #f7931e;
     color : #754c24;
+    font-weight: 500;
 }
 
 .ft-top {
