@@ -24,7 +24,9 @@ body {
     color : #754c24;
 }
 .active {
-    color: #f7931e;
+    /* color: #f7931e; */
+    text-decoration: underline;
+    text-decoration-style: solid;
 }
 
 .top-link {
