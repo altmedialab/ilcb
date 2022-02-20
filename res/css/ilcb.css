@@ -72,7 +72,8 @@ body {
 .ilcb-objectives {
     background-color: #f7931e;
     color : #754c24;
-    font-size: large;
+    font-size: 1.5rem;
+    font-weight: 600;
 
 }
 
