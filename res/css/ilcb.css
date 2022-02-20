@@ -58,21 +58,24 @@ body {
 
 .section-title-serv{
     background-color: #f7931e;
-    
+    opacity : 100%;
+    border-bottom : 3px solid #754c24;
 }
 
 .section-title-obj{
     background-color: #754c24;
-    
+    opacity : 100%;
+    border-bottom : 3px solid #ffffff;
 }
 /* ilcb objectives */
 .ilcb-objectives {
     background-color: #f7931e;
     color : #ffffff;
+
 }
 
 .obj {
-    font-size: 2rem;
+    font-size: 1,5rem;
 }
 
 
@@ -81,7 +84,7 @@ body {
 	color : #754c24;
 	font-family: 'Playfair Display', serif !important;
 	font-weight: 600;
-    font-size: 2rem;
+    font-size: 1.5rem;
     
 }
 
