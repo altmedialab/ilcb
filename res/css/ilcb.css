@@ -66,11 +66,13 @@ body {
     /* background-color: #754c24; */
     opacity : 100%;
     border-bottom : 3px solid #ffffff;
+    color : #ffffff;
 }
 /* ilcb objectives */
 .ilcb-objectives {
     background-color: #f7931e;
-    color : #ffffff;
+    color : #754c24;
+    font-size: large;
 
 }
 
