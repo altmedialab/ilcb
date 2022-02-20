@@ -47,16 +47,18 @@ body {
 /*  services styles  */
 .serv {
 	color : #754c24;
-	font-family: '', sans-serif !important;
+	font-family: 'Crimson Pro', serif !important;
 	font-weight: 600;
+    font-size: 2rem;
 }
 .serv-title {
-	font-family: '', sans-serif !important;
+	font-family: 'Crimson Pro', serif !important;
 	font-weight: 600;
+    font-size: 1.5rem;
 	color : #754c24;
 }
 .serv-icon {
-	font-size: 1rem;
+	font-size: 2rem;
 	color :  #f7931e;
 }
 
