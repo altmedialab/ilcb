@@ -55,6 +55,13 @@ body {
     color: #f7931e;
     background-color: #754c24;
 }
+
+.section-title-serv{
+    background-color: #f7931e;
+    width : 25%;
+}
+
+
 /* ilcb objectives */
 .ilcb-objectives {
     background-color: #f7931e;
