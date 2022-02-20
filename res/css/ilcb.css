@@ -35,6 +35,27 @@ body {
     color : #754c24;
 }
 
+
+
+
+/*  services styles  */
+.serv {
+	color : #754c24;
+	font-family: '', sans-serif !important;
+	font-weight: 600;
+}
+.serv-title {
+	font-family: '', sans-serif !important;
+	font-weight: 600;
+	color : #754c24;
+}
+.serv-icon {
+	font-size: ;
+	color :  #f7931e;
+}
+
+
+
 /* footer styles */
 .ft {
     background-color: #f7931e;
@@ -88,3 +109,5 @@ body {
     color : #754c24;
     font-weight: 900;
 }
+
+
