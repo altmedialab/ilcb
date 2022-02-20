@@ -58,7 +58,7 @@ body {
     
 }
 
-h3 .serv {
+.service-main-title > h3 {
     border-bottom: #f7931e 2px solid;
 }
 .serv-title {
