@@ -197,3 +197,19 @@ body {
     color: #ffffff;
     font-weight: 500;
 }
+
+
+/* about page css */
+
+.abt-partner-icon {
+    color :#f7931e;
+    font-size: 4rem;
+}
+
+.abt-partner-icon:hover {
+    color:#754c24;
+}
+
+.abt-partner-name {
+    color: #f7931e;
+}
