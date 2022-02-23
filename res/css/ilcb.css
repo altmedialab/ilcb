@@ -56,6 +56,10 @@ body {
     background-color: #754c24;
 }
 
+.section-title {
+    color : #754c24;
+}
+
 .section-title-serv{
     /* background-color: #f7931e; */
     opacity : 100%;
