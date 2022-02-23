@@ -213,3 +213,7 @@ body {
 .abt-partner-name {
     color: #f7931e;
 }
+
+.abt-partner-name:hover {
+    color:#754c24;
+}
