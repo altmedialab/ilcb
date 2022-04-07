@@ -233,10 +233,14 @@
                     <i class="bi bi-app-indicator serv-icon" ></i>
                         <h5 class="serv-title">Audit environmental assessment</h5>
                         <p>
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis accusantium animi quam fugiat laborum libero. Alias, ipsum quis. Quis tenetur quo porro officia iure inventore beatae possimus adipisci reprehenderit architecto?
-                            <br>
+                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis accusantium animi quam fugiat laborum libero. Alias, ipsum quis. Quis tenetur quo porro 
+                            <span class="" id="points">...<br>
                             <span class="serv-link mb-sm-3">
                                 <a href="#">Read more <i class="bi bi-arrow-up-right"></i></a>
+                            </span>
+                            </span>
+                            <span id="moreText">
+                                officia iure inventore beatae possimus adipisci reprehenderit architecto?
                             </span>
                         </p>
 
@@ -345,6 +349,55 @@
            
        </div>
     </footer>
+            
+    <script>
+        function toggleText() {
+  
+            // Get all the elements from the page
+            var points = 
+                document.getElementById("points");
+  
+            var showMoreText =
+                document.getElementById("moreText");
+  
+            var buttonText =
+                document.getElementById("textButton");
+  
+            // If the display property of the dots 
+            // to be displayed is already set to 
+            // 'none' (that is hidden) then this 
+            // section of code triggers
+            if (points.style.display === "none") {
+  
+                // Hide the text between the span
+                // elements
+                showMoreText.style.display = "none";
+  
+                // Show the dots after the text
+                points.style.display = "inline";
+  
+                // Change the text on button to 
+                // 'Show More'
+                buttonText.innerHTML = "Show More";
+            }
+  
+            // If the hidden portion is revealed,
+            // we will change it back to be hidden
+            else {
+  
+                // Show the text between the
+                // span elements
+                showMoreText.style.display = "inline";
+  
+                // Hide the dots after the text
+                points.style.display = "none";
+  
+                // Change the text on button
+                // to 'Show Less'
+                buttonText.innerHTML = "Show Less";
+            }
+        }
+    </script>        
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
