@@ -10,7 +10,7 @@ body {
     /* font-family: 'Crimson Pro', serif; */
     font-family: 'Playfair Display', serif;
 
-    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* menu style */
@@ -82,6 +82,7 @@ body {
 }
 
 .obj {
+
     font-size: 1,5rem;
 }
 
@@ -89,7 +90,7 @@ body {
 /*  services styles  */
 .serv {
 	color : #754c24;
-	font-family: 'Playfair Display', serif !important;
+	/* font-family: 'Playfair Display', serif !important; */
 	font-weight: 600;
     font-size: 1.5rem;
     
