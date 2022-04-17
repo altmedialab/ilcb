@@ -129,7 +129,14 @@ body {
     font-weight: 500;
 }
 
+.service-details-title {
+    color: #754c24;
+}
 
+.service-details > li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 
 /* footer styles */
 .ft {
